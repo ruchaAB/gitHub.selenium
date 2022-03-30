@@ -27,4 +27,4 @@ target
 .settings
 classes/
 lib/
-8.log
+*.log
